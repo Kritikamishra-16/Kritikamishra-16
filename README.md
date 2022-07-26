@@ -5,7 +5,7 @@
 👀 I’m interested in Web Development, Programming, Data Structure & algorithm, etc.<br>
 🌱 I’m currently learning lots of stuff which will enhance me for a better version of myself.<br>
 📫 How to reach me: mishrakritika2001@gmail.com<br>
-⚡I love to connect with people and learn about their journey, it helps me to open up my mind to different perspectives on various domains.<br>
+⚡I would love to connect with people and learn about their journey, it helps me to open up my mind to different perspectives on various domains.<br>
 💬 Ask me anything, and I will be more than happy to help :)
 
 ## 💻 Tech Stack:</h3>
