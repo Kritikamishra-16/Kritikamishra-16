@@ -1,12 +1,12 @@
-<img src="https://user-images.githubusercontent.com/67709501/181092204-d3013b71-4b0f-4855-bb4b-5709477bd30c.png" >
+<img src="https://github.com/user-attachments/assets/b6a1b82a-1971-4f22-807a-5078600b7c35" >
 
 ## 💫 About Me:
 
-👀 I’m interested in Web Development, Programming, Data Structure & algorithm, etc.<br>
-🌱 I’m currently learning lots of stuff which will enhance me for a better version of myself.<br>
-📫 How to reach me: mishrakritika2001@gmail.com<br>
-⚡I would love to connect with people and learn about their journey, it helps me to open up my mind to different perspectives on various domains.<br>
-💬 Ask me anything, and I will be more than happy to help :)
+👀 I’m a Software Engineer with a strong passion for Backend Development, Cloud Architecture, and Data Structures & Algorithms, among other areas of technology. <br>
+🌱 I’m currently exploring and learning new skills to continuously grow and evolve into a better version of myself.<br>
+📫 Feel free to reach out to me at: mishrakritika2001@gmail.com<br>
+⚡I enjoy connecting with people and learning about their unique journeys, as it broadens my perspective and deepens my understanding across diverse domains.<br>
+💬 Have any questions? Don’t hesitate to ask—I’d be delighted to help! :)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
